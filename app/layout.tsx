@@ -53,7 +53,7 @@ export default function RootLayout({
           <main className="min-h-screen flex flex-col items-center">
             <div className="flex-1 w-full flex flex-col gap-2 items-center">
               <div className="w-full border-b border-b-foreground/10 h-16">
-                <nav className="container flex justify-between items-center h-16">
+                <nav className="sm:container flex justify-between items-center h-16">
                     <div className=" flex justify-between items-center p-3 px-5 text-sm">
                       <div className="flex gap-8 justify-center items-center">
                         <div className="flex flex-col items-center font-leaguespartan font-semibold text-3xl text-[#373F4E] ">
@@ -66,7 +66,7 @@ export default function RootLayout({
                       </div>
                       {/*!hasEnvVars ? <EnvVarWarning /> : <HeaderAuth />*/}
                     </div>
-                    <ul className="flex flex-row gap-6">
+                    <ul className="flex flex-row gap-6 pr-4">
                       <li>
                         <Link href="#quees">¿Qué es la AFA?</Link>
                       </li>
