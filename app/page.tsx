@@ -23,7 +23,7 @@ export default async function Index() {
                   <li>Disponer un marco formal desde el que involucrarnos con el centro y desde el que encauzar todas aquellas aportaciones e iniciativas que puedan mejorar la convivencia de nuestra comunidad educativa y la mejora de las condiciones en las que se desarrolla la educación de nuestros hijos e hijas.</li>
                   <li>Servir de órgano privilegiado de interlocución entre las familias y el colegio para apoyar los esfuerzo de la direcciín por conseguir el concierto de la Comunidad de Madrid.</li>
                 </ul>
-                <p className="pb-4">La AMPA representa a todos sus socios. El trabajo se hace por Grupos de Trabajo. Éstos grupos están abiertos con grados de implicación flexibles, que siempre necesitan gente nueva. Es necesario asociarse mediante ficha de socio  y pago de cuota mensual.</p>
+                <p className="pb-4">La AFA representa a todos sus socios. El trabajo se hace por Grupos de Trabajo. Éstos grupos están abiertos con grados de implicación flexibles, que siempre necesitan gente nueva. Es necesario asociarse mediante ficha de socio.</p>
 
                 <p className="pb-4">La Junta se reúne cada mes y trabaja vía email. Se celebra una Asamblea General Ordinaria al año, en octubre, a las que están invitados todos los asociados para participar en la toma de decisiones tan importantes como la elección de cargos de la Junta Directiva, la postura sobre la jornada escolar (continua o partida), la aprobación de actas, propuestas, etc.</p>
 
