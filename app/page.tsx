@@ -17,17 +17,17 @@ export default async function Index() {
             <div className="flex flex-col sm:flex-row items-start">
               <div>
                 <p className="pb-6">
-                  La AFA es la Asoción de Familias de Alumnos del Centro Educativo Jara y tiene como objetivos principales:
+                  La AFA Colegio Jara Valdemorillo es la Asociación de Familias de Alumnos y Alumnas del Centro Educativo Jara y tiene como objetivos principales:
                 </p>
                 <ul className="list-disc list-inside pb-6">
                   <li>Disponer un marco formal desde el que involucrarnos con el centro y desde el que encauzar todas aquellas aportaciones e iniciativas que puedan mejorar la convivencia de nuestra comunidad educativa y la mejora de las condiciones en las que se desarrolla la educación de nuestros hijos e hijas.</li>
-                  <li>Servir de órgano privilegiado de interlocución entre las familias y el colegio para apoyar los esfuerzo de la direcciín por conseguir el concierto de la Comunidad de Madrid.</li>
+                  <li>Servir de órgano privilegiado de interlocución entre las familias y el colegio para apoyar los esfuerzos de la dirección por conseguir el concierto de la Comunidad de Madrid.</li>
                 </ul>
-                <p className="pb-4">La AFA representa a todos sus socios. El trabajo se hace por Grupos de Trabajo. Éstos grupos están abiertos con grados de implicación flexibles, que siempre necesitan gente nueva. Es necesario asociarse mediante ficha de socio.</p>
+                <p className="pb-4">La AFA representa a todos sus socios. El trabajo se hará por Grupos de Trabajo. Éstos grupos estarán abiertos con grados de implicación flexibles y se favorecerá la incorporación de aquellas personas que deseen aportar. La Junta se reunirá cada mes y/o trabajará vía email. Se celebrarán al menos dos Asambleas Generales Ordinarias al año y las Extraordinarias que sean necesarias a petición de los socios, según establecen los Estatutos.</p>
 
-                <p className="pb-4">La Junta se reúne cada mes y trabaja vía email. Se celebra una Asamblea General Ordinaria al año, en octubre, a las que están invitados todos los asociados para participar en la toma de decisiones tan importantes como la elección de cargos de la Junta Directiva, la postura sobre la jornada escolar (continua o partida), la aprobación de actas, propuestas, etc.</p>
+                <p className="pb-4">La Junta Directiva de la Asociación está formada por el Presidente, Vicepresidente, Tesorero, Secretario y Vocales. Cualquier socio podrá ser miembro de la Junta.</p>
 
-                <p className="pb-4">La Junta Directiva de la Asociación está formada por el Presidente, Vicepresidente, Tesorero, Secretario, Representante de la AMPA en el Consejo Escolar y Vocales. Los vocales se encargan o forma parte de un Grupo de Trabajo. Cualquier socio puede ser vocal de la Junta.</p>
+                <p className="pb-4">Es necesario asociarse mediante ficha de socio, por lo cual os rogamos que si estáis interesados en formar parte del AFA Colegio Jara Valdemorillo rellenéis el formulario.</p>
               </div>
               <div>
                 <Image src={LogoFamilias} alt="logo familias"/>
